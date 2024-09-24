@@ -13,6 +13,8 @@ A aplicação oferece as seguintes funcionalidades:
 - Marcação de itens como "comprados" através de um checkbox.
 
 
+https://github.com/user-attachments/assets/b26535ed-ef06-455e-8e10-44cbea091daf
+
 
 ## Tecnologias Utilizadas
 
