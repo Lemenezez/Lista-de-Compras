@@ -12,9 +12,7 @@ A aplicação oferece as seguintes funcionalidades:
 - Cada item inclui o nome, data e horário de criação;
 - Marcação de itens como "comprados" através de um checkbox.
 
-
-https://github.com/user-attachments/assets/b26535ed-ef06-455e-8e10-44cbea091daf
-
+https://github.com/user-attachments/assets/987c4614-792a-4d41-954f-5a1f0cb245b6
 
 ## Tecnologias Utilizadas
 
